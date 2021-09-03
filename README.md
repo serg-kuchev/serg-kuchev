@@ -1,8 +1,6 @@
 Hi, I’m Sergey Kuchev.
 
-I’m interested in development.
-
-I’m currently learning Python
+I work in Strana Development.
 
 Telegram: @kuCheez
 Email: kuchevwork@yandex.ru
